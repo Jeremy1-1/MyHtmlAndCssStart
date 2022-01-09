@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre&display=swap');
+body{
+    font-size:45px;
+    background:linear-gradient(45deg, blue, purple, red)
+}
+
+img{
+    margin-left: 445px;
+    cursor:grab
+}
+
+header{
+    border: 5px solid white;
+    text-align: center;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: teal;
+    font-family: 'Pangolin', cursive;
+    text-transform: uppercase;
+    padding: 0px;
+}
+
+header:hover{
+    background-color: skyblue;
+}
+
+a{
+    color: darkgreen;
+}
+
+div{
+    border: 6px solid black;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: blanchedalmond;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: left;
+    transition: 5s;
+}
+
+div:hover{
+    font-family: 'Boogaloo', cursive;
+    background-color: darkorange;
+}
+
+footer{
+    border: 5px dotted darkred;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-right: 300px;
+    margin-left: 300px;
+    background-color: black;
+    color: brown;
+    font-family: 'Gemunu Libre', sans-serif;
+    text-transform: uppercase;
+}

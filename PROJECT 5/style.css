@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(45deg, blue, red);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: midnightblue;
+}
+
+a{
+    color:darkgreen;
+}
+
+p{
+    font-family:monospace;
+    font-style: italic;
+    font-size:20px;
+}
+
+li{
+    font-weight: 50;
+    color:lawngreen;
+    font-style: oblique;
+    font-size: 30px;
+}
+
+img{
+    cursor: grab;
+}
+
